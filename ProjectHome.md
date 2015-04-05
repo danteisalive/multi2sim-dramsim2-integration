@@ -1,0 +1,1 @@
+The DRAM simulator of DRAMSim2 was integrated with the system simulator of Multi2sim 3.2
